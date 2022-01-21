@@ -567,10 +567,14 @@ h3 {
   .row2 {
     padding: 10px;
     border-radius: 10px;
+    box-shadow: none;
+    background-color: rgb(236, 216, 216);
   }
   .row3 {
     padding: 10px;
     border-radius: 10px;
+    box-shadow: none;
+    background-color: rgb(231, 212, 212);
   }
   .img-cont {
     display: none;
